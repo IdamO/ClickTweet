@@ -24,4 +24,4 @@ Simple as it ought to be, right?
 
 DISCLAIMER: For security reasons, ClickTweet does not ask or store your passwords (so no worries).
 
-Find it on the Chrome Store: [ClickTweet](https://chrome.google.com/webstore/detail/clicktweet/iemenfddoiochmlhbdbggjamfpjcclpd?hl=en-US&gl=US)
+Find it on the Chrome Store: [ClickTweet on the Chrome Store](https://chrome.google.com/webstore/detail/clicktweet/iemenfddoiochmlhbdbggjamfpjcclpd?hl=en-US&gl=US)
