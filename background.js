@@ -20,7 +20,7 @@ var contextsList=["selection", "link", "image", "page"]; //array containing type
 var w = 650; //width of window that opens for tweet
 var h = 250; //height of window that opens for tweet
 var midWidth = (screen.width/2)-(w/2); //midpoint of the screen (width)
-var midHeight = (screen.height/2)-(h/2);//midpoint of the screen (height) 
+var midHeight = (screen.height/2)-(h/2);//midpoint of the screen (height)
 var statusCount = 0;
 
 /*This section is the default for creating a new tweet*/    
