@@ -23,3 +23,5 @@ ClickTweet's procedure is really simple:
 Simple as it ought to be, right?
 
 DISCLAIMER: For security reasons, ClickTweet does not ask or store your passwords (so no worries).
+
+Find it on the Chrome Store: https://chrome.google.com/webstore/detail/clicktweet/iemenfddoiochmlhbdbggjamfpjcclpd?hl=en-US&gl=US
